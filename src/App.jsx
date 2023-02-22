@@ -8,7 +8,7 @@ const EXPENSES = [
     id: "e1",
     title: "Desk Lamp",
     amount: 104.56,
-    date: new Date(2022, 8, 16),
+    date: new Date(2023, 2, 16),
   },
   { id: "e2", title: "New TV", amount: 999.99, date: new Date(2022, 3, 11) },
   {
