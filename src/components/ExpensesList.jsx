@@ -6,7 +6,6 @@ import "./ExpensesList.css";
 
 const ExpensesList = (props) => {
   if (props.items.length === 0) {
-    
     return (
       <h2 className="expenses-list__fallback">
         There are no expenses in selected year.
